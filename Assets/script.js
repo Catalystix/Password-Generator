@@ -19,10 +19,10 @@ function generatePassword() {
     console.log('Great!')
     } else {
       alert('please select a number between 8 and 128')
-      return
+      return ''
     }
 
-
+// puts variables into the for loop
 
   var hasNum = confirm("Would you like numbers in your password?");
 
@@ -35,12 +35,7 @@ function generatePassword() {
   var selection = [];
   var result = '';
 
-  if (passwordLength > 7 && passwordLength < 129) {
-  console.log('Great!')
-  } else {
-    alert('please select a number between 8 and 128')
-    }
-
+  //confirmation questions to concat with variables
 
   if (hasNum === true) {
     selection = selection.concat(numbers)
@@ -63,6 +58,8 @@ function generatePassword() {
 
 
   console.log(hasLow, hasNum, hasSpec, hasUp, length);
+
+ 
 
   return result;
   

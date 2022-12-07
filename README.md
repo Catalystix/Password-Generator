@@ -29,7 +29,7 @@ equal to a new one.
  * My tutor!
 
 
-![Alt text](../../../../c:/Users/echo7/Downloads/pwgen.jpg)
+![Alt text](Assets/images/pwgen.jpg)
 
 
 https://github.com/Catalystix/Password-Generator-3.3

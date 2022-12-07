@@ -9,11 +9,11 @@ var upperCase = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P"
 // We have to prompt the user with questions about which variables they want to include in their password.
 function generatePassword() {
   var passwordLength = parseInt(prompt("How many character values between 8 and 128"));
-  if (isNaN(passwordLength > 7 && passwordLength < 129)) {
+  if (passwordLength > 7 && passwordLength < 129) {
     console.log('Great!')
     } else {
       alert('please select a number between 8 and 128')
-      return false      // needed this to return a string instead of undefined when the if statement was false
+      return ''      // needed this to return a string instead of undefined when the if statement was false
     }
 
 // puts variables into the for loop

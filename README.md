@@ -28,9 +28,9 @@ equal to a new one.
  * W3 Schools for README.MD Directions
  * My tutor!
 
-
-![Alt text](Assets/images/pwgen.jpg)
+![Alt text](assets/images/pwgen.jpg)
 
 
 https://github.com/Catalystix/Password-Generator-3.3
 
+https://catalystix.github.io/Password-Generator-3.3/

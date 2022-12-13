@@ -33,4 +33,6 @@ equal to a new one.
 
 https://github.com/Catalystix/Password-Generator-3.3
 
-https://catalystix.github.io/Password-Generator-3.3/![pwgen](https://user-images.githubusercontent.com/110114608/207207194-656a1a34-098f-4ac4-9985-6eccfdb449b0.jpg)
+https://catalystix.github.io/Password-Generator-3.3/![pwgen]
+
+(https://user-images.githubusercontent.com/110114608/207207194-656a1a34-098f-4ac4-9985-6eccfdb449b0.jpg)
